@@ -1,6 +1,6 @@
 {
   "name": "@dmytromykhailiuk/rx-react-redux-effect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reactive Library for React",
   "files": [
     "dist/src"
